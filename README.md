@@ -16,8 +16,6 @@ This repository contains the Keras implementation of our Image Processing projec
 ### How to use these files:
 <br/>Please download the kaggle.json and Alzheimer's.ipynb files and put them in your google drive. After that, you can easily run the project using the file Alzheimer's.ipynb.
 <br/>
-<br/>The file model.h5 is the best model (Resnet50) during our experiments, and you can load this model in order to perform the experiments without training the network.
-<br/>
 <br/>It is worth mentioning that the file kaggle.json is the Kaggle API Token, and everyone also can download this file from her/his own Kaggle account on the Kaggle website. Using this API, you can interact with Competitions and Datasets to directly download the dataset from the Kaggle website, So there is no need for you to download the dataset.
 <br/>
 <br/>The file Alzheimer's.ipynb has comments for each section and consists of 13 Steps from connecting to google drive and also downloading the dataset to plotting the results.
