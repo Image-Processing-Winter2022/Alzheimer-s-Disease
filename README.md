@@ -9,8 +9,9 @@ This repository contains the Keras implementation of our Image Processing projec
 <br/>
 <br/>
 <br/>
-We used the Kaggle Alzheimer's Dataset and the code was Implemented using KERAS. 
-We Trained the network using the Google Colab.
+<br/>We used the <a href="https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images">Kaggle Alzheimer's Dataset</a> and the code was Implemented using KERAS. 
+<br/>
+<br/>We Trained the network using the Google Colab.
 <br/>
 ### How to use these files:
 <br/>Please download the kaggle.json and Alzheimer's.ipynb files and put them in your google drive. After that, you can easily run the project using the file Alzheimer's.ipynb.
@@ -24,6 +25,3 @@ We Trained the network using the Google Colab.
 <br/>The file IM_report.pdf contains all the details of the project, followed by the results of the experiments performed in this research. 
 
 Please feel free to contact us, if you need any further information about these files or Dataset.
-
-
-
